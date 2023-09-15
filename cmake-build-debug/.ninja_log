@@ -1,0 +1,8 @@
+# ninja log v5
+0	143	1676568283214761103	CMakeFiles/C_Assignment1.dir/main.c.o	139c954fcd001b93
+1	99	1676568539417980284	CMakeFiles/C_Assignment1.dir/utils.c.o	35d1a1d9b1de55e2
+99	139	1676568539459552906	C_Assignment1	19ec3b5c38e6625a
+0	130	1676568711104904886	CMakeFiles/C_Assignment1.dir/utils.c.o	35d1a1d9b1de55e2
+130	173	1676568711150157969	C_Assignment1	19ec3b5c38e6625a
+0	38	1676568777294679896	CMakeFiles/C_Assignment1.dir/utils.c.o	35d1a1d9b1de55e2
+38	71	1676568777329015595	C_Assignment1	19ec3b5c38e6625a
